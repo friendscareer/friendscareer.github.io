@@ -2,46 +2,49 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  overflow: hidden;
-  @include media-breakpoint-up(md) {
-    padding-top: 140px;
-    padding-bottom: 140px;
-  }
+  padding-top: 140px;
+  padding-bottom: 100px;
   h1 {
-    color: $black;
-    font-size: 42px;
-    font-weight: bold;
+    font-size: 2.4rem;
     line-height: 1.2;
+    font-family: $font-family-heading;
+    width: 70%;
+    font-weight: 500;
+    @include media-breakpoint-up(sm) {
+      width: 70%;
+    }
     @include media-breakpoint-up(md) {
-      width: 80%;
-      font-size: 48px;
+      font-size: 3rem;
+      width: 70%;
     }
     @include media-breakpoint-up(lg) {
-      font-size: 50px;
+      font-size: 3rem;
+      width: 50%;
     }
   }
-  h2 {
-    width: 80%;
-    font-size: 1.2rem;
-    line-height: 1.4;
-    margin-bottom: 30px;
-    color: $black;
-    font-family: $font-family-base;
-  }
   p {
-    font-size: 1.2rem;
-    font-weight: light;
-    line-height: 1.5;
-    color: $steel;
+    width: 80%;
+    font-size: 1.3rem;
+    font-weight: lighter;
+    line-height: 1.4;
+    @include media-breakpoint-up(sm) {
+      width: 70%;
+    }
     @include media-breakpoint-up(md) {
-      width: 80%;
+      width: 70%;
+    }
+    @include media-breakpoint-up(lg) {
+      width: 50%;
     }
   }
 }
 
 .intro-small {
-  padding-top: 100px;
-  padding-bottom: 30px;
+  padding-top: 80px;
+  padding-bottom: 60px;
+}
+
+.intro-big {
+  padding-top: 180px;
+  padding-bottom: 140px;
 }

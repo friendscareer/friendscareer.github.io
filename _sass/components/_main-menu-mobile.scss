@@ -1,3 +1,10 @@
+$color-main: $primary;
+$color-active: #fff;
+$color-link: #fff;
+
+$button-height: 27px;
+$button-width: 35px;
+
 .main-menu-mobile {
   position: fixed;
   background: $primary;
@@ -9,7 +16,7 @@
   visibility: hidden;
   transition: opacity 0.35s, visibility 0.35s, height 0.35s;
   overflow: hidden;
-  display: flex;
+  display: none;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -17,7 +24,8 @@
     opacity: 0.9;
     visibility: visible;
     height: 100%;
-    z-index: 20;
+    z-index: 10;
+    display: flex;
     li {
       animation: fadeInRight 0.5s ease forwards;
       animation-delay: 0.35s;
@@ -39,7 +47,7 @@
     }
   }
   ul {
-    font-size: 30px;
+    font-size: 2rem;
     font-family: $font-family-heading;
     text-align: center;
     list-style: none;
@@ -50,20 +58,20 @@
       display: block;
       position: relative;
       opacity: 0;
-      padding: 10px;
       a {
         display: block;
         position: relative;
-        color: #ffffff;
+        color: $color-link;
         text-decoration: none;
         overflow: hidden;
         &:hover {
-          opacity: 0.8;
+          opacity: 0.7;
         }
       }
     }
   }
 }
+
 @keyframes fadeInRight {
   0% {
     opacity: 0;
@@ -74,6 +82,7 @@
     left: 0;
   }
 }
+
 .lock-scroll {
   overflow: hidden;
 }

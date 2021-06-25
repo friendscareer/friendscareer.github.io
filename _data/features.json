@@ -1,17 +1,16 @@
-[
-  {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+[{
+    "title": "Web Hosting",
+    "description": "New clients recieve an obligation free consultation.",
+    "image": "assets/images/features/noun_server connections_1735009.svg"
   },
   {
-    "title": "Certified Accountants",
+    "title": "Development",
     "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "image": "assets/images/features/noun_web coding_1734983.svg"
   },
   {
-    "title": "Tax Compliance",
+    "title": "User Experience",
     "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "image": "assets/images/features/noun_phone touch_1735024.svg"
   }
 ]

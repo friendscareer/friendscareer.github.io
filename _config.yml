@@ -1,52 +1,94 @@
-baseurl: '/'
+baseurl: ''
+exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Jekyll Advance Pro'
+collections_dir: collections
+markdown: kramdown
 
-google_analytics_id: ""
-
-homepage:
-  show_call_box: true
-
-logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "36px"
-
-footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
-
-seo:
-  meta_og_title: "Jekyll Serif Theme"
-  meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif.netlify.app"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-  meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+sass:
+  sass_dir: _sass
+  style: compact # possible values: nested expanded compact compressed
 
 collections:
   services:
     output: true
+    permalink: /:collection/:path/
+  work:
+    output: true
+    permalink: /:collection/:path/
   team:
     output: true
+    permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /blog/:path/
 
-sass:
-  indentWidth: 4
-  style: compact # possible values: nested expanded compact compressed
-  precision: 10
+defaults:
+  - scope:
+      type: services
+    values:
+      layout: service
+  - scope:
+      type: work
+    values:
+      layout: work
+  - scope:
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: 'images'
+    values:
+      image: true
+  - scope:
+      path: 'pages'
+    values:
+      permalink: /:basename/
+
+params:
+  google_analytics_id: ''
+  global:
+    header_fixed: true
+  footer:
+    show_menu_footer_primary: true
+    show_menu_footer_secondary: true
+    show_services_links: true
+    show_work_links: true
+  homepage:
+    show_services_section: true
+    services_count: 6
+    show_splash_section_one: true
+    splash_one_image: assets/images/undraw_post_online_dkuk.svg
+    splash_one_heading: We Help Business Grow
+    splash_one_paragraph:
+      Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus
+      oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea
+      duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam
+      aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat
+      assueverit.
+    splash_one_link_url: work
+    splash_one_link_text: Our Work
+    show_partners: true
+    show_work_section: true
+    work_section_heading: Our Work
+    work_count: 2
+    show_view_all_work_button: true
+  services:
+    show_features: true
+    show_splash_one_section: true
+    splash_one_background_image: assets/images/kaleidico-754543-unsplash.jpg
+    splash_one_heading: We build great software
+    splash_one_paragraph:
+      Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus
+      oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea
+      duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam
+      aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat
+      assueverit.
+  contact_cta:
+    heading: Ready to get started?
+    subheading: Get in touch and get a quote.
+    button_url: contact
+    button_text: Contact us
 
 plugins:
   - jekyll-environment-variables
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - LICENSE.md
-  - LICENSE
-  - README.md
