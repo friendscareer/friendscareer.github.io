@@ -1,9 +1,9 @@
 ---
-title: 'Web Design'
+title: 'Professional Development'
 date: 2018-11-28T15:15:34+10:00
-description: 'Business plan hackathon handshake responsive web design.'
+description: 'Something, something, something'
 icon: 'assets/images/services/icons8-web_design.png'
-heroSubHeading: 'Business plan hackathon handshake responsive web design.'
+heroSubHeading: 'Something, something, something'
 heroBackground: 'assets/images/services/headway-537308-unsplash.jpg'
 heroBackgroundOverlay: false
 heroDiagonal: true
