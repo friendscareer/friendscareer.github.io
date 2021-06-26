@@ -1,7 +1,7 @@
 ---
-title: 'User Experience'
+title: 'Networking Opportunities'
 date: 2018-11-18T12:33:46+10:00
-description: 'Advisor niche market backing hypotheses metrics handshake.'
+description: 'Something, something'
 icon: 'assets/images/services/icons8-protect_from_magnetic_field.png'
 featured: true
 weight: 3
