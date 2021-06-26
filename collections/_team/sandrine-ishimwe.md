@@ -9,4 +9,4 @@ behance_url: 'https://www.behance.net'
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Sandrine Ishimwe works as a Communications and Marketing practitioner. She has extensive experience in creating content, copywriting, social media management, project management and people management. Working with a Public Relations and Communications Agency for more than three years, she also has media buying and campaign management skills. Sandrine enjoys being around people and has a strong passion for supporting the community around her and uses every opportunity she gets to do so. Her greatest aspiration is to live an impactful and happy life.
