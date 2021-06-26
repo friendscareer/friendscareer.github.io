@@ -1,11 +1,11 @@
 ---
-title: 'Susan Shelton'
-date: 2018-12-20T13:45:06+10:00
+title: 'Jean d'Amour Tuyizere'
+date: 2018-12-20T13:44:23+10:00
 draft: false
-image: 'assets/images/team/cristian-newman-94319-unsplash.jpg'
-jobtitle: 'Developer'
+image: 'assets/images/team/vince-fleming-613817-unsplash.jpg'
+jobtitle: 'Director of Logistics'
 linkedin_url: 'https://www.linkedin.com/'
-weight: 5
+weight: 3
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.

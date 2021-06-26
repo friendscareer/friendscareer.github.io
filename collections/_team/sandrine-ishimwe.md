@@ -1,9 +1,9 @@
 ---
-title: 'Mike Vance'
+title: 'Sandrine Ishimwe'
 date: 2018-12-20T13:44:30+10:00
 draft: false
 image: 'assets/images/team/joseph-gonzalez-399972-unsplash.jpg'
-jobtitle: 'Art Director'
+jobtitle: 'Co-Founder/Director of Marketing and Communications'
 dribble_url: 'https://dribbble.com/ausrobert'
 behance_url: 'https://www.behance.net'
 weight: 2

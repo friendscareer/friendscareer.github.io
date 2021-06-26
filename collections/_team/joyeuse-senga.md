@@ -1,11 +1,12 @@
 ---
-title: 'Robert Johnson'
-date: 2018-12-20T13:44:23+10:00
+title: 'Joyeuse Senga'
+date: 2018-11-19T10:47:58+10:00
 draft: false
-image: 'assets/images/team/vince-fleming-613817-unsplash.jpg'
-jobtitle: 'Developer'
+image: 'assets/images/team/rawpixel-330235-unsplash.jpg'
+jobtitle: 'Founder/Executive Director'
 linkedin_url: 'https://www.linkedin.com/'
-weight: 3
+twitter_url: 'https://twitter.com/zerostaticio'
+weight: 1
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
