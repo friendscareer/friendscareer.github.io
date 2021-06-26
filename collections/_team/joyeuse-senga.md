@@ -2,7 +2,7 @@
 title: 'Joyeuse Senga'
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: 'assets/images/team/rawpixel-330235-unsplash.jpg'
+image: 'assets/images/team/joyeu.jpg'
 jobtitle: 'Founder/Executive Director'
 linkedin_url: 'https://www.linkedin.com/'
 twitter_url: 'https://twitter.com/zerostaticio'
