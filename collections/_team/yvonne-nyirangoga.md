@@ -5,7 +5,7 @@ draft: false
 image: 'assets/images/team/michael-dam-258165-unsplash.jpg'
 jobtitle: 'Career Mentor'
 linkedin_url: 'https://www.linkedin.com/'
-weight: 2
+weight: 3
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
