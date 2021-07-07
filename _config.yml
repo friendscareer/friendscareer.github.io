@@ -53,7 +53,7 @@ params:
     show_menu_footer_primary: true
     show_menu_footer_secondary: true
     show_services_links: true
-    show_work_links: true
+    show_work_links: false
   homepage:
     show_services_section: true
     services_count: 6
