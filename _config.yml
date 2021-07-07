@@ -50,7 +50,7 @@ params:
   global:
     header_fixed: true
   footer:
-    show_menu_footer_primary: false
+    show_menu_footer_primary: true
     show_menu_footer_secondary: true
     show_services_links: true
     show_work_links: false
