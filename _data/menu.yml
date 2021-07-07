@@ -2,9 +2,9 @@ main:
   - name: Services
     url: /services/
     weight: 1
-  - name: Work
-    url: /work/
-    weight: 2
+  #- name: Work
+  #  url: /work/
+  #  weight: 2
   - name: Team
     url: /team/
     weight: 3
@@ -21,9 +21,9 @@ footer_primary:
   - name: Services
     url: /services/
     weight: 2
-  - name: Work
-    url: /work/
-    weight: 3
+  #- name: Work
+  #  url: /work/
+  #  weight: 3
   - name: Team
     url: /team/
     weight: 4
