@@ -57,7 +57,7 @@ params:
   homepage:
     show_services_section: true
     services_count: 6
-    show_splash_section_one: true
+    show_splash_section_one: false
     splash_one_image: assets/images/undraw_post_online_dkuk.svg
     splash_one_heading: We Help Business Grow
     splash_one_paragraph:
