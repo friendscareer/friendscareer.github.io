@@ -13,9 +13,9 @@ collections:
   services:
     output: true
     permalink: /:collection/:path/
-  work:
-    output: true
-    permalink: /:collection/:path/
+  #work:
+    #output: true
+    #permalink: /:collection/:path/
   team:
     output: true
     permalink: /:collection/:path/
@@ -28,10 +28,10 @@ defaults:
       type: services
     values:
       layout: service
-  - scope:
-      type: work
-    values:
-      layout: work
+  #- scope:
+      #type: work
+    #values:
+      #layout: work
   - scope:
       type: posts
     values:
@@ -59,20 +59,17 @@ params:
     services_count: 6
     show_splash_section_one: true
     splash_one_image: assets/images/undraw_post_online_dkuk.svg
-    splash_one_heading: We Help Business Grow
-    splash_one_paragraph:
-      Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus
-      oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea
-      duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam
-      aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat
-      assueverit.
-    splash_one_link_url: work
-    splash_one_link_text: Our Work
-    show_partners: true
-    show_work_section: true
-    work_section_heading: Our Work
-    work_count: 2
-    show_view_all_work_button: true
+    #splash_one_heading: We Help Business Grow
+    #splash_one_paragraph:
+      #Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus
+      #oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea
+    #splash_one_link_url: work
+    #splash_one_link_text: Our Work
+    #show_partners: true
+    #show_work_section: true
+    #work_section_heading: Our Work
+    #work_count: 2
+    #show_view_all_work_button: true
   services:
     show_features: true
     show_splash_one_section: true
