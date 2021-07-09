@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Advance Pro'
+title: 'Friends Career Center'
 collections_dir: collections
 markdown: kramdown
 
