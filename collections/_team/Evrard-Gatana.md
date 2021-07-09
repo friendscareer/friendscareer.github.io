@@ -4,7 +4,6 @@ date: 2018-12-20T13:44:55+10:00
 draft: false
 image: 'assets/images/team/pic31.jpg'
 jobtitle: ' IT Officer  and Head of Mentorship Programme'
-linkedin_url: 'https://www.linkedin.com/'
 weight: 4
 ---
 
