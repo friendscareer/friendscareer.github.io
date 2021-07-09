@@ -34,6 +34,6 @@ footer_primary:
     url: /contact/
     weight: 6
 footer_secondary:
-  - name: Privacy Policy
-    url: /privacy/
-    weight: 1
+  #- name: Privacy Policy
+  #  url: /privacy/
+  #  weight: 1
