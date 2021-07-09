@@ -75,7 +75,7 @@ params:
     show_view_all_work_button: false
   services:
     show_features: true
-    show_splash_one_section: true
+    show_splash_one_section: false
     splash_one_background_image: assets/images/kaleidico-754543-unsplash.jpg
     splash_one_heading: We build great software
     splash_one_paragraph:
