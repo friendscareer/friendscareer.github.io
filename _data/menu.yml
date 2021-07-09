@@ -33,7 +33,7 @@ footer_primary:
   - name: Contact
     url: /contact/
     weight: 6
-footer_secondary:
+#footer_secondary:
   #- name: Privacy Policy
   #  url: /privacy/
   #  weight: 1
