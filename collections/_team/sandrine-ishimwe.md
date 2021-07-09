@@ -4,8 +4,6 @@ date: 2018-12-20T13:44:30+10:00
 draft: false
 image: 'assets/images/team/pic33.jpg'
 jobtitle: 'Co-Founder/Director of Marketing and Communications'
-dribble_url: 'https://dribbble.com/ausrobert'
-behance_url: 'https://www.behance.net'
 weight: 1
 ---
 
