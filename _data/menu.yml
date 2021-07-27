@@ -14,9 +14,6 @@ main:
   - name: Contact
     url: /contact/
     weight: 5
-  - name: Events
-    url: /events/
-    weight: 6
 footer_primary:
   - name: Home
     url: /
