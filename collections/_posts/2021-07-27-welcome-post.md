@@ -8,3 +8,4 @@ As a young person, you are constantly thinking of what is next. For many of us, 
 
 Although the world is battling with the COVID-19 pandemic, we believe that this is an opportunity for young people to come together and find sustainable solutions in their communities. The Friends Career Center was born out of an open discussion about our desire to see young people and their communities flourish. We believe that our callings should not be in conflict with our personal beliefs and values. Moreover, founded on Quaker values of equality, simplicity, and fellowship, we believe that each one of us has a role to play in creating and building peaceful communities. 
 
+As the Friends Career Center, we want to help with your professional development by learning about your personal interests, skills, and guiding you to achieve your goals. 
