@@ -14,22 +14,26 @@ contactForm.addEventListener("submit", function (e) {
 
   if (sender === "") {
     error.innerHTML = "Your Name is Required!";
-  }
-  if (!email.match(mailPattern)) {
+  } else if (!email.match(mailPattern)) {
     error.innerHTML = "Invalid Email Address!";
-  }
-  if (!phone.match(phonePattern)) {
+  } else if (!phone.match(phonePattern)) {
     error.innerHTML = "Invalid Phone Number!";
-  }
-  if (message === "") {
+  } else if (message === "") {
     error.innerHTML = "Message Field is Empty!";
-  }
-  if (
-    sender !== "" &&
-    email.match(mailPattern) &&
-    phone !== "" &&
-    message !== ""
-  ) {
+  } else {
     error.innerHTML = "";
+
+    const messsageParams = {
+      from_name: sender,
+      message: message,
+      user_phone: phone,
+      reply_to: email,
+      from_email: email,
+    };
+    emailjs
+      .send("service_oq58qob", "template_g978jvq", messsageParams)
+      .then((res) => {
+        alert("Success ", res.status);
+      });
   }
 });
