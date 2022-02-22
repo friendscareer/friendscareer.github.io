@@ -22,7 +22,9 @@ contactForm.addEventListener("submit", async function (e) {
     error.innerHTML = "Message Field is Empty!";
   } else {
     error.innerHTML = "";
+
     let pieSpinner = document.querySelector(".lds-dual-ring");
+
     const messsageParams = {
       from_name: sender,
       message: message,
