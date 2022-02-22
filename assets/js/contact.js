@@ -12,8 +12,6 @@ contactForm.addEventListener("submit", async function (e) {
   let phone = document.forms["contact-form"]["phone"].value;
   let message = document.forms["contact-form"]["message"].value;
 
-  let pieSpinner = document.querySelector(".lds-dual-ring");
-
   if (sender === "") {
     error.innerHTML = "Your Name is Required!";
   } else if (!email.match(mailPattern)) {
@@ -24,7 +22,7 @@ contactForm.addEventListener("submit", async function (e) {
     error.innerHTML = "Message Field is Empty!";
   } else {
     error.innerHTML = "";
-
+    let pieSpinner = document.querySelector(".lds-dual-ring");
     const messsageParams = {
       from_name: sender,
       message: message,
