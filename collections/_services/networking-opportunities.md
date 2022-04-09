@@ -3,6 +3,7 @@ title: 'Networking Opportunities'
 date: 2018-11-18T12:33:46+10:00
 description: ''
 icon: ''
+heroBackground: 'assets/images/services/Professional-development-picture.jpg'
 featured: true
 weight: 3
 heroFullscreen: true
