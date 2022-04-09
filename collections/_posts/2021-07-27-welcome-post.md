@@ -1,6 +1,6 @@
 ---
 title: 'Welcome to Friends Career Center'
-heroBackground: 'assets/images/posts/Events page- picture1.jpg'
+heroBackground: 'assets/images/posts/blog.jpg'
 ---
 
 Welcome to the Friends Career Center (FCC). 
