@@ -8,4 +8,4 @@ weight: 3
 heroFullscreen: true
 ---
 
-Many organisations provide networking opportunities across all levels of leadership. As the Friends Career Center, we organize networking events that allow the young people we serve to interact with leaders in different industries as well as learn about their journeys. We encourage a two-way interaction that allows both the participants and invitees to learn from one another and inspire new ways of thinking that are beneficial to young people and future generations.
+Many organizations provide networking opportunities across all levels of leadership. As the Friends Career Center, we organize networking events that allow the young people we serve to interact with leaders in different industries as well as learn about their journeys. We encourage a two-way interaction that allows both the participants and invitees to learn from one another and inspire new ways of thinking that are beneficial to young people and future generations. 

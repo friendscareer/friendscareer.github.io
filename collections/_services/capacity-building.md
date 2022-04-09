@@ -12,6 +12,7 @@ featured: true
 weight: 4
 ---
 
-Friends Career Center also provides team capacity building in-person and online training that are customized to meet the organization’s needs. These trainings are designed to equip each individual on the team to increase efficiency and optimize the unique talent and ability of each individual to achieve a positive impact on those they serve. For organizations, our capacity building training and activities focus on strengthening the organization’s collaboration and infrastructure. 
+Friends Career Center also provides team capacity building training in-person and online training that are customized to meet the organization’s needs. These trainings are designed to equip each individual on the team to increase efficiency and optimize the unique talent and ability of each individual to achieve a positive impact on those they serve. For organizations, our capacity building training and activities focus on strengthening the organization’s collaboration and infrastructure. 
 
 For organizations, capacity building activities may focus on shoring up sustainability, improving governance, supporting collaboration, or strengthening infrastructure. All have a common goal: Strengthening the skills, resources, and abilities that allow an organization and its workers to grow and thrive.
+
