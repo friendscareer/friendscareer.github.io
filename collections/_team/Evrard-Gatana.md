@@ -1,5 +1,5 @@
 ---
-title: 'Evard Gatana'
+title: 'Evarde Gatana'
 date: 2018-12-20T13:44:55+10:00
 draft: false
 image: 'assets/images/team/pic31.jpg'
